@@ -6,7 +6,7 @@ Third party views:
 
 GitHub Actions views (updates every 6 hours):
 
-[![Image of https://github.com/bluelightspirit/profile-views](https://github.com/bluelightspirit/profile-views/blob/master/svg/profile/badge.svg)](https://github.com/bluelightspirit/profile-views) from https://github.com/gayanvoice/github-profile-views-counter converted to https://github.com/bluelightspirit/bluelightspirit
+[![Image of https://github.com/bluelightspirit/profile-views](https://github.com/bluelightspirit/profile-views/blob/master/svg/profile/badge.svg)](https://github.com/bluelightspirit/profile-views) from https://github.com/gayanvoice/github-profile-views-counter converted to https://github.com/bluelightspirit/profile-views
 <!--
 **bluelightspirit/bluelightspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
