@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/YOUR_USERNAME)
+![Profile views](https://gpvc.arturio.dev/bluelightspirit)
 ![](https://komarev.com/ghpvc/?username=bluelightspirit)   
 
 <!--
