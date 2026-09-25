@@ -1,6 +1,11 @@
-![Profile views](https://gpvc.arturio.dev/bluelightspirit)
-![](https://komarev.com/ghpvc/?username=bluelightspirit)   
+Third party views:
 
+1) ![Profile views](https://gpvc.arturio.dev/bluelightspirit)
+2) ![](https://komarev.com/ghpvc/?username=bluelightspirit) 
+
+GitHub Actions views (updates every 6 hours):
+
+[![Image of https://github.com/bluelightspirit/profile-views](https://github.com/bluelightspirit/profile-views/blob/master/svg/profile/badge.svg)](https://github.com/bluelightspirit/profile-views)
 <!--
 **bluelightspirit/bluelightspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
