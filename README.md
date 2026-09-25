@@ -1,11 +1,12 @@
 Third party views:
 
-1) ![Profile views](https://gpvc.arturio.dev/bluelightspirit)
-2) ![](https://komarev.com/ghpvc/?username=bluelightspirit) 
+1) ![](https://komarev.com/ghpvc/?username=bluelightspirit) from https://github.com/antonkomarev/github-profile-views-counter
+2) ![](https://view-counter.tobyhagan.com/?user={bluelightspirit}) from https://github.com/lrth06/view-counter
+3) ![ALT TEXT GOES HERE](https://views.gonzalohirsch.com/gh?user=bluelightspirit) from https://github.com/GonzaloHirsch/profile-views-serverless-api
 
 GitHub Actions views (updates every 6 hours):
 
-[![Image of https://github.com/bluelightspirit/profile-views](https://github.com/bluelightspirit/profile-views/blob/master/svg/profile/badge.svg)](https://github.com/bluelightspirit/profile-views)
+[![Image of https://github.com/bluelightspirit/profile-views](https://github.com/bluelightspirit/profile-views/blob/master/svg/profile/badge.svg)](https://github.com/bluelightspirit/profile-views) from https://github.com/gayanvoice/github-profile-views-counter converted to https://github.com/bluelightspirit/bluelightspirit
 <!--
 **bluelightspirit/bluelightspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
