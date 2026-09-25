@@ -4,7 +4,7 @@ Third party views:
 2) ![](https://view-counter.tobyhagan.com/?user={bluelightspirit}) from https://github.com/lrth06/view-counter
 3) ![ALT TEXT GOES HERE](https://views.gonzalohirsch.com/gh?user=bluelightspirit) from https://github.com/GonzaloHirsch/profile-views-serverless-api
 
-GitHub Actions views (updates every 6 hours):
+GitHub Actions views (updates every 5 minutes - except if GitHub Actions is overloaded):
 
 [![Image of https://github.com/bluelightspirit/profile-views](https://github.com/bluelightspirit/profile-views/blob/master/svg/profile/badge.svg)](https://github.com/bluelightspirit/profile-views) from https://github.com/gayanvoice/github-profile-views-counter converted to https://github.com/bluelightspirit/profile-views
 <!--
